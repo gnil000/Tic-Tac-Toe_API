@@ -1,0 +1,7 @@
+﻿GET /move/
+
+POST /move/{firstIndex}/{secondIndex}
+
+PUT /
+
+DELETE / 
